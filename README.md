@@ -31,4 +31,11 @@ Run the tests (no API key needed): `python -m unittest discover -s tests -v`
 | `tests/test_solver.py` | Unit tests for parsing and verification |
 
 ## Screenshots
-Add 1–2 screenshots of the running app here.
+<img width="1917" height="971" alt="Screenshot 2026-11-22 103230" src="https://github.com/user-attachments/assets/cbff2929-d31e-4f3f-8b72-33a644c0df23" />
+<img width="1912" height="972" alt="Screenshot 2026-11-22 103312" src="https://github.com/user-attachments/assets/eb9d37a2-7531-4d49-b333-9b1b4d5f114b" />
+<img width="1911" height="892" alt="Screenshot 2026-11-22 103353" src="https://github.com/user-attachments/assets/ad07bd30-0550-4d70-84bb-e2af3f7eacba" />
+<img width="1912" height="867" alt="Screenshot 2026-11-22 103411" src="https://github.com/user-attachments/assets/a3bcfdaa-a9a6-4481-bb99-206294970d31" />
+
+
+
+
